@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+.favourite-place-bg-container
+{
+    background-image: url("https://wallpapers.com/images/hd/dslr-blur-tree-vfy5nd5dwusrs5sm.jpg");
+    background-size: cover;
+}
+
+.favourite-place-heading
+{
+    color:white;
+    font-family: 'roboto';
+    font-size: 35px;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.favourite-place-card
+{
+    background-color: white;
+    border-radius: 8px;
+    padding: 10px;
+    margin:25px;
+}
+
+.favourite-place-card-heading
+{
+    color:black;
+    font-family: 'roboto';
+    font-size: 28px;
+    font-weight: bold; 
+}
+
+.favourite-place-card-paragraph
+{
+    color:black;
+    font-family: 'roboto';
+}
+
+.favourite-place-card-image
+{
+    height: 110px;
+    width: 90px;
+    border-radius: 10px;
+}
